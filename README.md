@@ -1,0 +1,1 @@
+Django easy project
